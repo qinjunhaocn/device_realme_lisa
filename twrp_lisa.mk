@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/realme/lisa/device.mk)
 
 PRODUCT_DEVICE := lisa
-PRODUCT_NAME := omni_lisa
+PRODUCT_NAME := twrp_lisa
 PRODUCT_BRAND := realme
 PRODUCT_MODEL := RMX3560
 PRODUCT_MANUFACTURER := realme
